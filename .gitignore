@@ -22,7 +22,6 @@ Desktop.ini
 *.ipr
 
 # VS Code
-.vscode/
 
 # Node.js
 node_modules/
@@ -30,7 +29,6 @@ dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -38,3 +36,4 @@ yarn-error.log*
 # Spring Boot
 .help/
 *.pid
+config.bat
